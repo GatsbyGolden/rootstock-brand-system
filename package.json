@@ -1,0 +1,54 @@
+{
+  "name": "@rootstock/fonts",
+  "version": "1.0.0",
+  "description": "Rootstock Sans font system for web apps and marketing materials",
+  "main": "dist/css/index.css",
+  "style": "dist/css/index.css",
+  "types": "src/types/index.d.ts",
+  "files": [
+    "dist/**/*",
+    "src/**/*",
+    "tailwind.preset.js"
+  ],
+  "exports": {
+    ".": "./dist/css/index.css",
+    "./css": "./dist/css/index.css",
+    "./fonts": "./dist/fonts/",
+    "./tailwind": "./tailwind.preset.js",
+    "./font/headline": {
+      "types": "./src/types/index.d.ts",
+      "default": "./src/font/headline/index.js"
+    },
+    "./font/body": {
+      "types": "./src/types/index.d.ts",
+      "default": "./src/font/body/index.js"
+    },
+    "./font/tags": {
+      "types": "./src/types/index.d.ts",
+      "default": "./src/font/tags/index.js"
+    },
+    "./font": {
+      "types": "./src/types/index.d.ts",
+      "default": "./src/font/index.js"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["font", "typography", "rootstock", "bitcoin", "rsk"],
+  "author": "Rootstock",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsksmart/rootstock-brand-system.git"
+  },
+  "homepage": "https://github.com/rsksmart/rootstock-brand-system#readme",
+  "peerDependencies": {
+    "next": ">=13.0.0"
+  },
+  "peerDependenciesMeta": {
+    "next": {
+      "optional": true
+    }
+  }
+}
