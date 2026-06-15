@@ -1,8 +1,8 @@
 # Rootstock Brand System
 
-Official brand assets for Rootstock — the Bitcoin sidechain for smart contracts.
+Official brand assets for Rootstock, Bitcoin's financial infrastructure. Rootstock is the most secure and longest-running smart contract sidechain cryptographically and economically connected to Bitcoin the network and BTC the asset. 
 
-Brand color: `#FF9100` · Website: [rootstock.io](https://rootstock.io)
+Brand color: `#FF9100` · Website: [rootstock.io](https://rootstock.io) X: [@rootstock_io](https://x.com/rootstock_io))
 
 ---
 
