@@ -169,19 +169,19 @@ rBTC is the native token of Rootstock, pegged 1:1 with Bitcoin.
 
 | Preview | Variant | SVG | PNG |
 |---------|---------|-----|-----|
-| <img src="tokens/rBTC/png/logo/rBTC_Logo_Primary_128px.png" height="40"> | Primary | [SVG](tokens/rBTC/svg/logo/rBTC_Logo_Primary.svg) | [16](tokens/rBTC/png/logo/rBTC_Logo_Primary_16px.png) · [32](tokens/rBTC/png/logo/rBTC_Logo_Primary_32px.png) · [64](tokens/rBTC/png/logo/rBTC_Logo_Primary_64px.png) · [128](tokens/rBTC/png/logo/rBTC_Logo_Primary_128px.png) · [256](tokens/rBTC/png/logo/rBTC_Logo_Primary_256px.png) · [512](tokens/rBTC/png/logo/rBTC_Logo_Primary_512px.png) |
-| <img src="tokens/rBTC/png/logo/rBTC_Logo_Inverted_128px.png" height="40"> | Inverted | [SVG](tokens/rBTC/svg/logo/rBTC_Logo_Inverted.svg) | [16](tokens/rBTC/png/logo/rBTC_Logo_Inverted_16px.png) · [32](tokens/rBTC/png/logo/rBTC_Logo_Inverted_32px.png) · [64](tokens/rBTC/png/logo/rBTC_Logo_Inverted_64px.png) · [128](tokens/rBTC/png/logo/rBTC_Logo_Inverted_128px.png) · [256](tokens/rBTC/png/logo/rBTC_Logo_Inverted_256px.png) · [512](tokens/rBTC/png/logo/rBTC_Logo_Inverted_512px.png) |
-| <img src="tokens/rBTC/png/logo/rBTC_Logo_Light_128px.png" height="40"> | Light | [SVG](tokens/rBTC/svg/logo/rBTC_Logo_Light.svg) | [16](tokens/rBTC/png/logo/rBTC_Logo_Light_16px.png) · [32](tokens/rBTC/png/logo/rBTC_Logo_Light_32px.png) · [64](tokens/rBTC/png/logo/rBTC_Logo_Light_64px.png) · [128](tokens/rBTC/png/logo/rBTC_Logo_Light_128px.png) · [256](tokens/rBTC/png/logo/rBTC_Logo_Light_256px.png) · [512](tokens/rBTC/png/logo/rBTC_Logo_Light_512px.png) |
-| <img src="tokens/rBTC/png/logo/rBTC_Logo_Dark_128px.png" height="40"> | Dark | [SVG](tokens/rBTC/svg/logo/rBTC_Logo_Dark.svg) | [16](tokens/rBTC/png/logo/rBTC_Logo_Dark_16px.png) · [32](tokens/rBTC/png/logo/rBTC_Logo_Dark_32px.png) · [64](tokens/rBTC/png/logo/rBTC_Logo_Dark_64px.png) · [128](tokens/rBTC/png/logo/rBTC_Logo_Dark_128px.png) · [256](tokens/rBTC/png/logo/rBTC_Logo_Dark_256px.png) · [512](tokens/rBTC/png/logo/rBTC_Logo_Dark_512px.png) |
+| <img src="tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_128px.png" height="40"> | Primary | [SVG](tokens/rBTC/SVG/Logo/rBTC_Logo_Primary.svg) | [16](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_16px.png) · [32](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_32px.png) · [64](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_64px.png) · [128](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_128px.png) · [256](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_256px.png) · [512](tokens/rBTC/PNG/Logo/rBTC_Logo_Primary_512px.png) |
+| <img src="tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_128px.png" height="40"> | Inverted | [SVG](tokens/rBTC/SVG/Logo/rBTC_Logo_Inverted.svg) | [16](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_16px.png) · [32](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_32px.png) · [64](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_64px.png) · [128](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_128px.png) · [256](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_256px.png) · [512](tokens/rBTC/PNG/Logo/rBTC_Logo_Inverted_512px.png) |
+| <img src="tokens/rBTC/PNG/Logo/rBTC_Logo_Light_128px.png" height="40"> | Light | [SVG](tokens/rBTC/SVG/Logo/rBTC_Logo_Light.svg) | [16](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_16px.png) · [32](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_32px.png) · [64](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_64px.png) · [128](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_128px.png) · [256](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_256px.png) · [512](tokens/rBTC/PNG/Logo/rBTC_Logo_Light_512px.png) |
+| <img src="tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_128px.png" height="40"> | Dark | [SVG](tokens/rBTC/SVG/Logo/rBTC_Logo_Dark.svg) | [16](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_16px.png) · [32](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_32px.png) · [64](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_64px.png) · [128](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_128px.png) · [256](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_256px.png) · [512](tokens/rBTC/PNG/Logo/rBTC_Logo_Dark_512px.png) |
 
 ### Symbol (Icon only)
 
 | Preview | Variant | SVG | PNG |
 |---------|---------|-----|-----|
-| <img src="tokens/rBTC/png/symbol/rBTC_Symbol_Primary_64px.png" width="48"> | Primary | [SVG](tokens/rBTC/svg/symbol/rBTC_Symbol_Primary.svg) | [16](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_16px.png) · [32](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_32px.png) · [64](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_64px.png) · [128](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_128px.png) · [256](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_256px.png) · [512](tokens/rBTC/png/symbol/rBTC_Symbol_Primary_512px.png) |
-| <img src="tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_64px.png" width="48"> | Inverted | [SVG](tokens/rBTC/svg/symbol/rBTC_Symbol_Inverted.svg) | [16](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_16px.png) · [32](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_32px.png) · [64](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_64px.png) · [128](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_128px.png) · [256](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_256px.png) · [512](tokens/rBTC/png/symbol/rBTC_Symbol_Inverted_512px.png) |
-| <img src="tokens/rBTC/png/symbol/rBTC_Symbol_Light_64px.png" width="48"> | Light | [SVG](tokens/rBTC/svg/symbol/rBTC_Symbol_Light.svg) | [16](tokens/rBTC/png/symbol/rBTC_Symbol_Light_16px.png) · [32](tokens/rBTC/png/symbol/rBTC_Symbol_Light_32px.png) · [64](tokens/rBTC/png/symbol/rBTC_Symbol_Light_64px.png) · [128](tokens/rBTC/png/symbol/rBTC_Symbol_Light_128px.png) · [256](tokens/rBTC/png/symbol/rBTC_Symbol_Light_256px.png) · [512](tokens/rBTC/png/symbol/rBTC_Symbol_Light_512px.png) |
-| <img src="tokens/rBTC/png/symbol/rBTC_Symbol_Dark_64px.png" width="48"> | Dark | [SVG](tokens/rBTC/svg/symbol/rBTC_Symbol_Dark.svg) | [16](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_16px.png) · [32](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_32px.png) · [64](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_64px.png) · [128](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_128px.png) · [256](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_256px.png) · [512](tokens/rBTC/png/symbol/rBTC_Symbol_Dark_512px.png) |
+| <img src="tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_64px.png" width="48"> | Primary | [SVG](tokens/rBTC/SVG/Symbol/rBTC_Symbol_Primary.svg) | [16](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_16px.png) · [32](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_32px.png) · [64](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_64px.png) · [128](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_128px.png) · [256](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_256px.png) · [512](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Primary_512px.png) |
+| <img src="tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_64px.png" width="48"> | Inverted | [SVG](tokens/rBTC/SVG/Symbol/rBTC_Symbol_Inverted.svg) | [16](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_16px.png) · [32](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_32px.png) · [64](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_64px.png) · [128](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_128px.png) · [256](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_256px.png) · [512](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Inverted_512px.png) |
+| <img src="tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_64px.png" width="48"> | Light | [SVG](tokens/rBTC/SVG/Symbol/rBTC_Symbol_Light.svg) | [16](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_16px.png) · [32](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_32px.png) · [64](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_64px.png) · [128](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_128px.png) · [256](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_256px.png) · [512](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Light_512px.png) |
+| <img src="tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_64px.png" width="48"> | Dark | [SVG](tokens/rBTC/SVG/Symbol/rBTC_Symbol_Dark.svg) | [16](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_16px.png) · [32](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_32px.png) · [64](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_64px.png) · [128](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_128px.png) · [256](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_256px.png) · [512](tokens/rBTC/PNG/Symbol/rBTC_Symbol_Dark_512px.png) |
 
 ---
 
@@ -215,12 +215,12 @@ rootstock-brand-system/
 │   └── types/               # TypeScript definitions
 ├── tokens/
 │   └── rBTC/                # rBTC token logos (SVG + PNG, 4 variants, 6 sizes)
-│       ├── svg/
-│       │   ├── logo/
-│       │   └── symbol/
-│       └── png/
-│           ├── logo/
-│           └── symbol/
+│       ├── SVG/
+│       │   ├── Logo/
+│       │   └── Symbol/
+│       └── PNG/
+│           ├── Logo/
+│           └── Symbol/
 └── public/
     ├── Rootstock_Brand_Guidelines.pdf
     ├── Rootstock_Typography_System.png
