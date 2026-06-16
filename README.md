@@ -35,11 +35,11 @@ Used on off-white backgrounds. Orange is the core brand color.
 
 | Swatch | Name | Hex | RGB | Pantone |
 |--------|------|-----|-----|---------|
-| ![#000000](https://via.placeholder.com/40x20/000000/000000?text=+) | Black | `#000000` | 0, 0, 0 | Black C |
-| ![#FAF9F5](https://via.placeholder.com/40x20/FAF9F5/FAF9F5?text=+) | White | `#FAF9F5` | 250, 249, 245 | 9043 C |
-| ![#FF71E1](https://via.placeholder.com/40x20/FF71E1/FF71E1?text=+) | Rootstock Pink | `#FF71E1` | 255, 113, 225 | 927 C |
-| ![#79C600](https://via.placeholder.com/40x20/79C600/79C600?text=+) | Rootstock Green | `#79C600` | 121, 198, 0 | 802 C |
-| ![#FF9100](https://via.placeholder.com/40x20/FF9100/FF9100?text=+) | Rootstock Orange | `#FF9100` | 255, 145, 0 | 151 C |
+| ![#000000](https://placehold.co/40x20/000000/000000.png) | Black | `#000000` | 0, 0, 0 | Black C |
+| ![#FAF9F5](https://placehold.co/40x20/FAF9F5/FAF9F5.png) | White | `#FAF9F5` | 250, 249, 245 | 9043 C |
+| ![#FF71E1](https://placehold.co/40x20/FF71E1/FF71E1.png) | Rootstock Pink | `#FF71E1` | 255, 113, 225 | 927 C |
+| ![#79C600](https://placehold.co/40x20/79C600/79C600.png) | Rootstock Green | `#79C600` | 121, 198, 0 | 802 C |
+| ![#FF9100](https://placehold.co/40x20/FF9100/FF9100.png) | Rootstock Orange | `#FF9100` | 255, 145, 0 | 151 C |
 
 ### Editor Palette
 Used on black backgrounds. Do not use Purple, Cyan, or Lime on off-white backgrounds.
@@ -48,14 +48,14 @@ Used on black backgrounds. Do not use Purple, Cyan, or Lime on off-white backgro
 
 | Swatch | Name | Hex | RGB | Pantone |
 |--------|------|-----|-----|---------|
-| ![#FAF9F5](https://via.placeholder.com/40x20/FAF9F5/FAF9F5?text=+) | White | `#FAF9F5` | 250, 249, 245 | 9043 C |
-| ![#000000](https://via.placeholder.com/40x20/000000/000000?text=+) | Black | `#000000` | 0, 0, 0 | Black C |
-| ![#FF71E1](https://via.placeholder.com/40x20/FF71E1/FF71E1?text=+) | Rootstock Pink | `#FF71E1` | 255, 113, 225 | 927 C |
-| ![#9E76FF](https://via.placeholder.com/40x20/9E76FF/9E76FF?text=+) | Purple | `#9E76FF` | 158, 118, 255 | 814 C |
-| ![#79C600](https://via.placeholder.com/40x20/79C600/79C600?text=+) | Rootstock Green | `#79C600` | 121, 198, 0 | 802 C |
-| ![#08FFD0](https://via.placeholder.com/40x20/08FFD0/08FFD0?text=+) | Cyan | `#08FFD0` | 8, 255, 208 | 0821 C |
-| ![#FF9100](https://via.placeholder.com/40x20/FF9100/FF9100?text=+) | Rootstock Orange | `#FF9100` | 255, 145, 0 | 151 C |
-| ![#DEFF1A](https://via.placeholder.com/40x20/DEFF1A/DEFF1A?text=+) | Lime | `#DEFF1A` | 222, 255, 26 | 809 C |
+| ![#FAF9F5](https://placehold.co/40x20/FAF9F5/FAF9F5.png) | White | `#FAF9F5` | 250, 249, 245 | 9043 C |
+| ![#000000](https://placehold.co/40x20/000000/000000.png) | Black | `#000000` | 0, 0, 0 | Black C |
+| ![#FF71E1](https://placehold.co/40x20/FF71E1/FF71E1.png) | Rootstock Pink | `#FF71E1` | 255, 113, 225 | 927 C |
+| ![#9E76FF](https://placehold.co/40x20/9E76FF/9E76FF.png) | Purple | `#9E76FF` | 158, 118, 255 | 814 C |
+| ![#79C600](https://placehold.co/40x20/79C600/79C600.png) | Rootstock Green | `#79C600` | 121, 198, 0 | 802 C |
+| ![#08FFD0](https://placehold.co/40x20/08FFD0/08FFD0.png) | Cyan | `#08FFD0` | 8, 255, 208 | 0821 C |
+| ![#FF9100](https://placehold.co/40x20/FF9100/FF9100.png) | Rootstock Orange | `#FF9100` | 255, 145, 0 | 151 C |
+| ![#DEFF1A](https://placehold.co/40x20/DEFF1A/DEFF1A.png) | Lime | `#DEFF1A` | 222, 255, 26 | 809 C |
 
 > For full usage rules see the [Brand Guidelines PDF](public/Rootstock_Brand_Guidelines.pdf).
 
