@@ -116,7 +116,7 @@ The following assets are provided for convenience to help developers and designe
 
 | Icon | Token | Description | Learn More |
 |------|-------|-------------|------------|
-| <img src="tokens/RIF/RIF.svg" width="40"> | **RIF** | Powering DAO Governance and RIFOS Tools | [rif.technology](https://rif.technology/) |
+| <img src="tokens/RIF/RIF.png" width="40"> | **RIF** | Powering DAO Governance and RIFOS Tools | [rif.technology](https://rif.technology/) |
 | <img src="tokens/MOC/MOC.svg" width="40"> | **MOC** | Money on Chain Governance Token | [moneyonchain.com](https://moneyonchain.com/moc-token/) |
 
 ---
