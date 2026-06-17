@@ -78,7 +78,7 @@ Rootstock uses a custom typeface family: **Rootstock Sans**, available in three 
 
 ## rBTC Token
 
-rBTC is the native token of Rootstock, pegged 1:1 with Bitcoin.
+rBTC is Bitcoin represented on Rootstock, maintaining a 1:1 relationship with BTC. It enables smart contracts, lending, borrowing, payments, and other applications on the network.
 
 ### Logo (Symbol + Wordmark)
 
