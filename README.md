@@ -100,6 +100,27 @@ rBTC is Bitcoin represented on Rootstock, maintaining a 1:1 relationship with BT
 
 ---
 
+## Core Tokens
+
+The following assets are provided for convenience to help developers and designers integrate Rootstock ecosystem tokens. These are made available as-is — always consult the issuer directly for official brand guidelines, usage terms, and up-to-date assets.
+
+### Stablecoins
+
+| Icon | Token | Description | Learn More |
+|------|-------|-------------|------------|
+| <img src="tokens/DOC/DOC.svg" width="40"> | **DOC** | The OG Bitcoin-collateralised stablecoin | [moneyonchain.com](https://moneyonchain.com/) |
+| <img src="tokens/USDT0/USDT0.png" width="40"> | **USDT0** | A single, unified supply of Tether's USDT available across 20+ chains | [usdt0.to](https://usdt0.to/) |
+| <img src="tokens/USDRIF/USDRIF.svg" width="40"> | **USDRIF** | A Bitcoin-secured algorithmic stablecoin | [rifonchain.com](https://rifonchain.com/) |
+
+### Utility Tokens
+
+| Icon | Token | Description | Learn More |
+|------|-------|-------------|------------|
+| <img src="tokens/RIF/RIF.svg" width="40"> | **RIF** | Powering DAO Governance and RIFOS Tools | [rif.technology](https://rif.technology/) |
+| <img src="tokens/MOC/MOC.svg" width="40"> | **MOC** | Money on Chain Governance Token | [moneyonchain.com](https://moneyonchain.com/moc-token/) |
+
+---
+
 ## Brand Guidelines
 
 The full brand guidelines document covers logo usage rules, color palette, typography scale, spacing, and do/don'ts.
@@ -129,13 +150,18 @@ rootstock-brand-system/
 │   ├── font/                # Next.js localFont helpers
 │   └── types/               # TypeScript definitions
 ├── tokens/
-│   └── rBTC/                # rBTC token logos (SVG + PNG, 4 variants, 6 sizes)
-│       ├── SVG/
-│       │   ├── Logo/
-│       │   └── Symbol/
-│       └── PNG/
-│           ├── Logo/
-│           └── Symbol/
+│   ├── rBTC/                # rBTC token logos (SVG + PNG, 4 variants, 6 sizes)
+│   │   ├── SVG/
+│   │   │   ├── Logo/
+│   │   │   └── Symbol/
+│   │   └── PNG/
+│   │       ├── Logo/
+│   │       └── Symbol/
+│   ├── DOC/                 # Dollar on Chain stablecoin
+│   ├── USDT0/               # USDT0 stablecoin
+│   ├── USDRIF/              # USDRIF stablecoin
+│   ├── RIF/                 # RIF utility token
+│   └── MOC/                 # Money on Chain governance token
 └── public/
     ├── Rootstock_Brand_Guidelines.pdf
     ├── Rootstock_Typography_System.png
